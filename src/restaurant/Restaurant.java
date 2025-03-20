@@ -3,7 +3,6 @@ package restaurant;
 import restaurant.Menu;
 import java.util.*;
 
-import main.Food;
 import people.Chef; 
 import people.Visitor; 
 

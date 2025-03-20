@@ -1,7 +1,8 @@
 package main;
 
 import restaurant.Restaurant;
-import restaurant.Menu;
+import restaurant.Menu; 
+import restaurant.Food; 
 import people.Chef;
 import people.Visitor;
 
